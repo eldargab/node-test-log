@@ -1,0 +1,22 @@
+{
+  "name": "test-log",
+  "version": "0.0.0",
+  "description": "Tiny log for test assertions",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldargab/node-test-log.js.git"
+  },
+  "keywords": [
+    "test",
+    "log"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "license": "MIT"
+}

@@ -1,7 +1,7 @@
 {
   "name": "test-log",
-  "version": "0.0.0",
-  "description": "Tiny log for test assertions",
+  "version": "0.0.1",
+  "description": "Tiny logger for using in tests",
   "scripts": {
     "test": "mocha -R spec"
   },
